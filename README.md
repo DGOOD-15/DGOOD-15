@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi there, I'm Dustin Goodwin 👋
+I'm a student at TripleTen and a Full Stack Software Engineer.
+🔭 I’m currently working on a my final project for the software engineer program!
+🥅 2025 Goals: Finish the program and start a fufulling exciting new career as a software engineer
+⚡ Fun fact: I love the outdoors, movies, and listen music.
+Connect with me:
+https://github.com/DGOOD-15 https://www.linkedin.com/in/dustin-goodwintech/
 
-<!--
-**DGOOD-15/DGOOD-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools:
 
-Here are some ideas to get you started:
+visual studio code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+javascript
+
+react
+
+typescript
+
+html5
+
+css3
+
+json
+
+express
+
+eslint
+
+Node.js
+
+MySQL
+
+markdown
+
+Git
+
+github
+
+terminal
+
+windows
+
+ubuntu
+
+macos
