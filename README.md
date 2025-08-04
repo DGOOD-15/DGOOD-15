@@ -22,7 +22,6 @@
 
 - 🧪 Obsessed with creating clean and responsive user interfaces  
 - 🧠 Continuously sharpening my JavaScript & React skills  
-- 🛠️ Currently working on a React Native learning app  
 
 
 ---
